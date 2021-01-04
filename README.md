@@ -36,6 +36,10 @@
       <td><a href="https://youtu.be/jOYOUrgR16c">สอน Jupyter Notebook: การ run notebook cell ที่มี Python Prompt (เครื่องหมายมากกว่า 3 ตัว)</a></td>
     </tr>
     <tr>
+      <td><a href=https://youtu.be/3ha-ART9DFA><img src=https://i.ytimg.com/vi/3ha-ART9DFA/mqdefault.jpg />&nbsp;</a></td>
+      <td><a href="https://youtu.be/3ha-ART9DFA">สอน Machine Learning: การทำ Polynomial Regression</a></td>
+    </tr>
+    <tr>
       <td><a href=https://youtu.be/zhkTD7rNEBk><img src=https://i.ytimg.com/vi/zhkTD7rNEBk/mqdefault.jpg />&nbsp;</a></td>
       <td><a href="https://youtu.be/zhkTD7rNEBk">หลักการทำงานเบื้องต้นของ Logistic Regression</a></td>
     </tr>
