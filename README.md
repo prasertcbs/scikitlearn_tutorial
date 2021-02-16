@@ -40,7 +40,7 @@
       <td><a href="https://youtu.be/3ha-ART9DFA">สอน Machine Learning: การทำ Polynomial Regression</a></td>
     </tr>
     <tr>
-      <td><a href=https://youtu.be/fJ-Z3X1bbvs><img src=https://i.ytimg.com/vi/3ha-ART9DFA/mqdefault.jpg />&nbsp;</a></td>
+      <td><a href=https://youtu.be/fJ-Z3X1bbvs><img src=https://i.ytimg.com/vi/fJ-Z3X1bbvs/mqdefault.jpg />&nbsp;</a></td>
       <td><a href="https://youtu.be/fJ-Z3X1bbvs">สอน Machine Learning: การทำ Multiple Polynomial Regression ด้วย scikit-learn</a></td>
     </tr>
     <tr>
