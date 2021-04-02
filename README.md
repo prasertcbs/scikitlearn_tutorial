@@ -1,9 +1,9 @@
 # สอน Machine Learning ด้วย scikit-learn
-<table border="0" class="dataframe">
+<table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th>YouTube</th>
-      <th>title</th>
+      <th>Title</th>
     </tr>
   </thead>
   <tbody>
@@ -30,10 +30,6 @@
     <tr>
       <td><a href=https://youtu.be/T2yT5vt1NaQ><img src=https://i.ytimg.com/vi/T2yT5vt1NaQ/mqdefault.jpg />&nbsp;</a></td>
       <td><a href="https://youtu.be/T2yT5vt1NaQ">การจัดการกับ Missing Values ด้วย SimpleImputer ของ scikit-learn</a></td>
-    </tr>
-    <tr>
-      <td><a href=https://youtu.be/jOYOUrgR16c><img src=https://i.ytimg.com/vi/jOYOUrgR16c/mqdefault.jpg />&nbsp;</a></td>
-      <td><a href="https://youtu.be/jOYOUrgR16c">สอน Jupyter Notebook: การ run notebook cell ที่มี Python Prompt (เครื่องหมายมากกว่า 3 ตัว)</a></td>
     </tr>
     <tr>
       <td><a href=https://youtu.be/3ha-ART9DFA><img src=https://i.ytimg.com/vi/3ha-ART9DFA/mqdefault.jpg />&nbsp;</a></td>
@@ -68,6 +64,10 @@
       <td><a href="https://youtu.be/CrlmjqHXhqI">สอน Machine Learning: Decision Tree Classification</a></td>
     </tr>
     <tr>
+      <td><a href=https://youtu.be/yJKRTZW_juc><img src=https://i.ytimg.com/vi/yJKRTZW_juc/mqdefault.jpg />&nbsp;</a></td>
+      <td><a href="https://youtu.be/yJKRTZW_juc">การทำ binary classification (Titanic dataset) ด้วย lightGBM เบื้องต้น</a></td>
+    </tr>
+    <tr>
       <td><a href=https://youtu.be/DeKMoxpI7DM><img src=https://i.ytimg.com/vi/DeKMoxpI7DM/mqdefault.jpg />&nbsp;</a></td>
       <td><a href="https://youtu.be/DeKMoxpI7DM">สอน Machine Learning: การเปรียบเทียบความแม่นยำของ Classifier models หลาย ๆ ตัวพร้อม ๆ กัน</a></td>
     </tr>
@@ -78,6 +78,14 @@
     <tr>
       <td><a href=https://youtu.be/D3AEkmFtNQI><img src=https://i.ytimg.com/vi/D3AEkmFtNQI/mqdefault.jpg />&nbsp;</a></td>
       <td><a href="https://youtu.be/D3AEkmFtNQI">สอน Machine Learning: การหา features ที่สำคัญด้วย RFE (Recursive Feature Elimination)</a></td>
+    </tr>
+    <tr>
+      <td><a href=https://youtu.be/rNjMs3sn_QM><img src=https://i.ytimg.com/vi/rNjMs3sn_QM/mqdefault.jpg />&nbsp;</a></td>
+      <td><a href="https://youtu.be/rNjMs3sn_QM">การวิเคราะห์อนุกรมเวลา Time Series (ฝุ่น PM 2.5) ด้วย Facebook Prophet</a></td>
+    </tr>
+    <tr>
+      <td><a href=https://youtu.be/COtinIQk12w><img src=https://i.ytimg.com/vi/COtinIQk12w/mqdefault.jpg />&nbsp;</a></td>
+      <td><a href="https://youtu.be/COtinIQk12w">การวิเคราะห์อนุกรมเวลา Time Series (ฝุ่น PM 2.5) ด้วย Lightgbm regressor + SHAP</a></td>
     </tr>
     <tr>
       <td><a href=https://youtu.be/VyjdyymF0NY><img src=https://i.ytimg.com/vi/VyjdyymF0NY/mqdefault.jpg />&nbsp;</a></td>
@@ -125,7 +133,7 @@
     </tr>
     <tr>
       <td><a href=https://youtu.be/5vLZm7eYmC4><img src=https://i.ytimg.com/vi/5vLZm7eYmC4/mqdefault.jpg />&nbsp;</a></td>
-      <td><a href="https://youtu.be/5vLZm7eYmC4">แปลงข้อมูลในอยู่ในรูปแบบสำหรับการทำ Market Basket Analysis</a></td>
+      <td><a href="https://youtu.be/5vLZm7eYmC4">แปลงข้อมูลให้อยู่ในรูปแบบสำหรับการทำ Market Basket Analysis</a></td>
     </tr>
     <tr>
       <td><a href=https://youtu.be/z8APHNo1iA4><img src=https://i.ytimg.com/vi/z8APHNo1iA4/mqdefault.jpg />&nbsp;</a></td>
@@ -194,6 +202,10 @@
     <tr>
       <td><a href=https://youtu.be/QVrZL4T8NBk><img src=https://i.ytimg.com/vi/QVrZL4T8NBk/mqdefault.jpg />&nbsp;</a></td>
       <td><a href="https://youtu.be/QVrZL4T8NBk">การอ่าน R datasets มาเป็น pandas DataFrame</a></td>
+    </tr>
+    <tr>
+      <td><a href=https://youtu.be/jOYOUrgR16c><img src=https://i.ytimg.com/vi/jOYOUrgR16c/mqdefault.jpg />&nbsp;</a></td>
+      <td><a href="https://youtu.be/jOYOUrgR16c">สอน Jupyter Notebook: การ run notebook cell ที่มี Python Prompt (เครื่องหมายมากกว่า 3 ตัว)</a></td>
     </tr>
     <tr>
       <td><a href=https://youtu.be/8SXnfq8RJsU><img src=https://i.ytimg.com/vi/8SXnfq8RJsU/mqdefault.jpg />&nbsp;</a></td>
